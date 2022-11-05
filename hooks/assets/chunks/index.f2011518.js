@@ -1,1 +1,0 @@
-import{u as a}from"./index.9b07d391.js";import{s as n}from"../app.d2186bfa.js";function g(s=!1){const[t,{set:e,toggle:o}]=a(s),r=n(()=>({set:u=>e(!!u),setTrue:()=>e(!0),setFalse:()=>e(!1),toggle:o}));return[t,{...r.value}]}export{g as u};
