@@ -17,14 +17,14 @@
 
 # VueHooks Plus
 
-English | [简体中文](https://github.com/InhiblabCore/vue-hooks-plus/tree/master/README.zh-CN.md)
+[English](https://github.com/InhiblabCore/vue-hooks-plus/tree/master/README.md) | 简体中文
 
-High-quality and reliable Vue3 Hooks library
+高质量和可靠的 Vue3 Hooks 库
 
 </div>
 
-## 🌏 try it！
+## 🌏 试试它！
 
-See the <a href="https://github.com/InhiblabCore/vue-hooks-plus" target="_blank">repository</a>
+查看 <a href="https://github.com/InhiblabCore/vue-hooks-plus" target="_blank">仓库</a>
 
-See the <a href="https://inhiblabcore.github.io/docs/hooks" target="_blank">Documentation Guide</a>
+查看 <a href="http://nelsonyong.gitee.io/docs/hooks" target="_blank">文档指南</a>
