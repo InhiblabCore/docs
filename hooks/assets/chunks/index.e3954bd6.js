@@ -1,1 +1,0 @@
-import{r as i,k as s,j as f}from"../app.eded5542.js";function l(u,e,r){const n=r==null?void 0:r.immediate,t=i(u);s(a=>{if(f(e)){if(typeof e.value!="number"||e.value<0)return}else if(typeof e!="number"||e<0)return;n&&t.value();const m=f(e)?e.value:e,c=setInterval(()=>{t.value()},m);a(()=>{clearInterval(c)})})}export{l as u};
