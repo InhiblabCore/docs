@@ -17,7 +17,7 @@
 
 # VueHooks Plus
 
-[English](https://github.com/InhiblabCore/vue-hooks-plus/tree/master/README.md) | 简体中文
+[English](https://github.com/InhiblabCore/docs/blob/main/README.md) | 简体中文
 
 高质量和可靠的 Vue3 Hooks 库
 
