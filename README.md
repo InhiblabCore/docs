@@ -31,4 +31,4 @@ See the <a href="https://gitee.com/NelsonYong/vue-hooks-plus" target="_blank">Gi
 
 See the <a href="https://inhiblabcore.github.io/docs/hooks" target="_blank">Documentation Guide</a>
 
-See the <a href="http://nelsonyong.gitee.io/docs/hooks" target="_blank">China Documentation Guide</a>
+See the <a href="https://nelsonyong.gitee.io/docs/hooks" target="_blank">China Documentation Guide</a>

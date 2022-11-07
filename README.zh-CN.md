@@ -31,4 +31,4 @@
 
 查看 <a href="https://inhiblabcore.github.io/docs/hooks" target="_blank">文档</a>
 
-查看 <a href="http://nelsonyong.gitee.io/docs/hooks" target="_blank">国内镜像</a>
+查看 <a href="https://nelsonyong.gitee.io/docs/hooks" target="_blank">国内镜像</a>
