@@ -27,8 +27,8 @@
 
 查看 <a href="https://github.com/InhiblabCore/vue-hooks-plus" target="_blank">GitHub 仓库</a>
 
-查看 <a href="https://gitee.com/NelsonYong/vue-hooks-plus" target="_blank">Gitee 仓库</a>
+查看 <a href="https://gitee.com/inhiblab-core/vue-hooks-plus" target="_blank">Gitee 仓库</a>
 
 查看 <a href="https://inhiblabcore.github.io/docs/hooks" target="_blank">文档</a>
 
-查看 <a href="https://nelsonyong.gitee.io/docs/hooks" target="_blank">国内镜像</a>
+查看 <a href="https://inhiblab-core.gitee.io/docs/hooks" target="_blank">国内镜像</a>

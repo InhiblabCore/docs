@@ -27,8 +27,8 @@ High-quality and reliable Vue3 Hooks library
 
 See the <a href="https://github.com/InhiblabCore/vue-hooks-plus" target="_blank">GitHub repository</a>
 
-See the <a href="https://gitee.com/NelsonYong/vue-hooks-plus" target="_blank">Gitee repository</a>
+See the <a href="https://gitee.com/inhiblab-core/vue-hooks-plus" target="_blank">Gitee repository</a>
 
 See the <a href="https://inhiblabcore.github.io/docs/hooks" target="_blank">Documentation Guide</a>
 
-See the <a href="https://nelsonyong.gitee.io/docs/hooks" target="_blank">China Documentation Guide</a>
+See the <a href="https://inhiblab-core.gitee.io/docs/hooks" target="_blank">China Documentation Guide</a>
