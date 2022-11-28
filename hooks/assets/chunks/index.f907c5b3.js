@@ -1,0 +1,1 @@
+import{r as s,l as a,j as r}from"../app.074a1445.js";function o(u,e,t){const m=t==null?void 0:t.immediate,f=s(u);a(i=>{if(r(e)){if(typeof e.value!="number"||e.value<0)return}else if(typeof e!="number"||e<0)return;m&&f.value();const c=r(e)?e.value:e,n=setTimeout(()=>{f.value()},c);i(()=>{clearInterval(n)})})}export{o as u};
