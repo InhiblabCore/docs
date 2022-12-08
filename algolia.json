@@ -1,6 +1,6 @@
 {
 	"index_name": "vue-hooks-plus-search",
-	"start_urls": ["https://inhiblabcore.github.io/docs/hooks"],
+	"start_urls": ["https://inhiblabcore.github.io/docs/hooks","https://inhiblabcore.github.io/docs/hooks/en"],
 	"rateLimit": 8,
 	"maxDepth": 10,
 	"selectors": {
