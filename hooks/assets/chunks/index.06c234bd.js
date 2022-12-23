@@ -1,1 +1,0 @@
-import{r,s as g}from"../app.d7d5a9ab.js";function p(s=!1,e){const t=r(s),n=g(()=>{const o=e===void 0?!s:e;return{toggle:()=>{t.value=t.value===s?o:s},set:c=>t.value=c,setLeft:()=>t.value=s,setRight:()=>t.value=o}});return[t,{...n.value}]}export{p as u};
