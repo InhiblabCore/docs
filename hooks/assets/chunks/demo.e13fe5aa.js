@@ -1,0 +1,1 @@
+import"./stringify.f3255a0a.js";import"./intersection-observer.38c1bba6.js";import{u as o}from"./index.312b4364.js";import{e as t,r,o as a,c as s,t as n}from"../app.1a673492.js";const f=t({__name:"demo",setup(m){const e=r(0);return o(()=>{e.value+=1},2e3),(p,c)=>(a(),s("div",null,n(e.value),1))}});export{f as _};
