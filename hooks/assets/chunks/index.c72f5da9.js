@@ -1,0 +1,1 @@
+import{t as n}from"./throttle.ed3887a3.js";import{r as f,s,k as m}from"../app.6bc27469.js";function v(a,e){var r;const u=f(a),l=(r=e==null?void 0:e.wait)!=null?r:1e3,t=s(()=>n((...c)=>u.value([...c]),l,e));return m(()=>{t.value.cancel()}),{run:t,cancel:t.value.cancel,flush:t.value.flush}}export{v as u};
