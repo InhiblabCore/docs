@@ -1,0 +1,1 @@
+import{h as o,J as s,K as t}from"../app.6a92e6b2.js";function r(n=()=>{}){const e=()=>{t(()=>{n()})};return o(()=>{window.addEventListener("resize",e,!1)}),s(()=>{window.removeEventListener("resize",e)}),null}export{r as u};
