@@ -1,0 +1,1 @@
+import"./stringify.f9150c2f.js";import{u as o}from"./index.b74e520a.js";import"./isBrowser.46f69b0e.js";import{e as t,r,o as a,c as n,t as s}from"../app.c36a7f40.js";const f=t({__name:"demo",setup(m){const e=r(0);return o(()=>{e.value+=1},2e3),(p,c)=>(a(),n("div",null,s(e.value),1))}});export{f as _};

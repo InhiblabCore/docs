@@ -1,0 +1,1 @@
+import{i as o}from"./isBrowser.46f69b0e.js";import{j as r}from"../app.c36a7f40.js";function l(e,f){if(!o)return;if(!e)return f;let i;return typeof e=="function"?i=e():r(e)?i=e.value:i=e,i}export{l as g};

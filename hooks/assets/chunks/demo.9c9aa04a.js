@@ -1,0 +1,1 @@
+import"./stringify.f9150c2f.js";import"./isBrowser.46f69b0e.js";import{u as o}from"./index.cd95b063.js";import{e as t,r as n,o as r,c as s,t as a}from"../app.c36a7f40.js";const f=t({__name:"demo",setup(c){const e=n(0);return o(()=>e.value+=1),(i,m)=>(r(),s("div",null,"Windows change count\uFF1A "+a(e.value),1))}});export{f as _};
