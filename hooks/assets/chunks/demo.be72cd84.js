@@ -1,0 +1,1 @@
+import"./stringify.b1a2f83f.js";import{u as o}from"./index.51bf13c8.js";import{e as t,r as a,o as r,c as s,t as m}from"../app.f30a318a.js";const _=t({__name:"demo",setup(n){const e=a(0);return o(()=>{e.value+=1},1e3,{immediate:!1}),(i,c)=>(r(),s("div",null,m(e.value),1))}});export{_};
