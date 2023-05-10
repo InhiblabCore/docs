@@ -1,0 +1,1 @@
+import{i as o}from"./stringify.7c979077.js";import{l as r}from"../app.fefc8ec7.js";function l(e,f){if(!o)return;if(!e)return f;let i;return typeof e=="function"?i=e():r(e)?i=e.value:i=e,i}export{l as g};

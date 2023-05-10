@@ -1,0 +1,1 @@
+import{r,v as g,x as i}from"../app.fefc8ec7.js";function m(s=!1,o){const t=r(s),n=g(()=>{const e=o===void 0?!s:o;return{toggle:()=>{t.value=t.value===s?e:s},set:c=>t.value=c,setLeft:()=>t.value=s,setRight:()=>t.value=e}});return[i(t),{...n.value}]}export{m as u};
