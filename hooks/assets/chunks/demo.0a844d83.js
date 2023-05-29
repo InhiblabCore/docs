@@ -1,1 +1,0 @@
-import"./stringify.7c979077.js";import{u as t}from"./index.4519b465.js";import{e as u,o as a,c as o,d as s,t as n,u as r}from"../app.fefc8ec7.js";const d=u({__name:"demo",setup(p){const e=t(["(min-width: 320px)"],[!0],!1);return(c,i)=>(a(),o("div",null,[s("p",null,n(r(e)?"\u6700\u5C0F\u5C3A\u5BF8\u5927\u4E8E320px":"\u5C0F\u4E8E320px"),1)]))}});export{d as _};

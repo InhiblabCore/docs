@@ -1,1 +1,0 @@
-import{r as s,j as c,l as i,u as v}from"../app.fefc8ec7.js";function I(f,e,r){const u=r==null?void 0:r.immediate,t=s(f);c(a=>{if(i(e)){if(typeof e.value!="number"||e.value<0)return}else if(typeof e!="number"||e<0)return;u&&t.value();const n=v(e),m=setInterval(()=>{t.value()},n);a(()=>{clearInterval(m)})})}export{I as u};
