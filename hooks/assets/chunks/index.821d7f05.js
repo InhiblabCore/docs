@@ -1,1 +1,0 @@
-import{j as f,u as t}from"../app.8202eaee.js";function s(i,e,m){(m==null?void 0:m.immediate)&&i(),f(r=>{if(t(e)===void 0||typeof t(e)!="number"||t(e)<0)return;const u=t(e),c=setTimeout(()=>{i()},u);r(()=>{clearInterval(c)})})}export{s as u};
