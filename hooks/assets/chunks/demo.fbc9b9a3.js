@@ -1,0 +1,1 @@
+import{e as a,a4 as u,o as s,c as t,d as n,t as o,u as r}from"../app.814014d9.js";const _=a({__name:"demo",setup(p){const e=u(["(min-width: 320px)"],[!0],!1);return(c,l)=>(s(),t("div",null,[n("p",null,o(r(e)?"\u6700\u5C0F\u5C3A\u5BF8\u5927\u4E8E320px":"\u5C0F\u4E8E320px"),1)]))}});export{_};
