@@ -1,0 +1,1 @@
+import{e as o,a5 as r,o as s,c as a,d as t,t as l,u as i}from"../app.367c0303.js";const c=o({__name:"demo",setup(u){const n=r();return(p,e)=>(s(),a("div",null,[e[0]||(e[0]=t("div",null,"Network information:",-1)),t("pre",null,l(JSON.stringify(i(n),null,2)),1)]))}});export{c as _};

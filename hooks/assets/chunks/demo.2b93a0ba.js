@@ -1,0 +1,1 @@
+import{e as a,r as t,am as o,o as s,c as n,t as r}from"../app.367c0303.js";const u=a({__name:"demo",setup(m){const e=t(0);return o(()=>{e.value+=1},1e3,{immediate:!1}),(c,l)=>(s(),n("div",null,r(e.value),1))}});export{u as _};
