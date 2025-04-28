@@ -11,10 +11,6 @@ import {
 const A = r({
   __name: "VPCarbonAds",
   setup(m) {
-    alert(
-      "该网站已经不再维护，将跳转到新的 2.0 文档网站以此获得更好的体验 / This website has been shut down. Please jump to the new 2.0 documentation website for better experience."
-    );
-    window.location.href = "https://inhiblabcore.github.io/vue-hooks-plus";
     const { theme: o } = i(),
       a = o.value.carbonAds,
       { isAsideEnabled: n } = d(),
@@ -47,4 +43,10 @@ const A = r({
     );
   },
 });
+
+alert(
+  "该网站已经不再维护，将跳转到新的 2.0 文档网站以此获得更好的体验 / This website has been shut down. Please jump to the new 2.0 documentation website for better experience."
+);
+window.location.href = "https://inhiblabcore.github.io/vue-hooks-plus";
+
 export { A as default };
